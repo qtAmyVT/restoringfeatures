@@ -1,7 +1,7 @@
 # Restoring Features
 This application will restore your computer's limited resources.
 
-This a fork for [CollabVM Command Unblocker](ttps://github.com/DESKTOPGOOOSE/CVM-Command-Unblocker).
+This a fork for [CollabVM Command Unblocker](https://github.com/DESKTOPGOOOSE/CVM-Command-Unblocker).
 
 # FAQ
 
